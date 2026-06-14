@@ -38,12 +38,6 @@ Evaluation Metrics:
 - Scikit-Learn
 - Jupyter Notebook
 
-## Project Structure
-
-data/
-notebooks/
-screenshots/
-
 ## Author
 
 Samruddhi Jain
